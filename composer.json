@@ -1,5 +1,6 @@
 {
     "name": "braditya/latihan",
+    "version": "1.2",
     "description": "untuk nganu",
     "type": "php",
     "license": "open source",
@@ -9,7 +10,6 @@
             "email": "bagus@circle-creative.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "files": ["Math.php"]

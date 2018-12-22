@@ -12,4 +12,8 @@ class Math
     {
         return $a + $b;
     }
+    public function minus($a, $b)
+    {
+        return $a - $b;
+    }
 }
