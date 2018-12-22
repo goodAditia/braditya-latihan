@@ -1,0 +1,17 @@
+{
+    "name": "braditya/latihan",
+    "description": "untuk nganu",
+    "type": "php",
+    "license": "open source",
+    "authors": [
+        {
+            "name": "bagus setiawan",
+            "email": "bagus@circle-creative.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": ["Math.php"]
+    }
+}
